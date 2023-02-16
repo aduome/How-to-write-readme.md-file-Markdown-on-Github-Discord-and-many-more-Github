@@ -1,6 +1,8 @@
 # How-to-write-readme.md-file-Markdown-on-Github-Discord-and-many-more-Github
 ## Follow these to create and style your Markdown file.
-## My Week 0 - **Assignments**
+This is bold **Bold**  
+
+This is *Italic*
 - this is a list
 - [ ] this is a checklist
 - [X] this is checked
